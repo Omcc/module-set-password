@@ -7,7 +7,7 @@
   "type": "magento2-module",
   "autoload": {
     "files": [
-      "src/registration.php"
+      "registration.php"
     ],
     "psr-4": {
       "Actiview\\SetCustomerPassword\\": ""
