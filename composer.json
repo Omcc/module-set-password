@@ -10,7 +10,7 @@
       "src/registration.php"
     ],
     "psr-4": {
-      "Actiview\\SetCustomerPassword\\": "src"
+      "Actiview\\SetCustomerPassword\\": ""
     }
   }
 }
